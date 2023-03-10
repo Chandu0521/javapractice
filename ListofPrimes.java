@@ -32,7 +32,7 @@ public class ListofPrimes {
             System.out.println("The list of Prime Numbers upto " + userinput + " are as follows");
             //for (int k = 0; k <= index; k++) {
                 System.out.println(primenumbers);
-				System.out.println("Total Count: " +index);
+				System.out.println("Total Count: " +index);chandu
             //}
         } else
             System.out.println("Enter a number greater than 2");
